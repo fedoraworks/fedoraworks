@@ -1,4 +1,4 @@
-# FEDORAWORKS Wiki
+# Wiki
 
 ### FEDORAWORKS
 FEDORAWORKS is a small booksotre that makes everything about Clouds and Books based on Clould27, Cloud Village.
